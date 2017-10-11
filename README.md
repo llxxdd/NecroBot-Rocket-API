@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">1
     <img alt="Logo" src="http://necrobot.io/img/typotype-transparent.png" width="600">
   <a href="https://discord.gg/VXKxNFr">
     <img alt="Logo" src="https://discordapp.com/api/guilds/209253611031625728/widget.png?style=banner2">
